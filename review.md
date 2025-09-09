@@ -1,1 +1,1 @@
-I reviewed many of the basic actions using git version control. I reviewed things such as pull requests, commits, branches, etc.
+I reviewed many of the basic actions using git version control. I reviewed things such as pull requests, commits, branches, etc. I have also cloned the repository to a local save so that I can make an edit and commit/push to the remote repository.
